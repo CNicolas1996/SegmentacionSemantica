@@ -1,0 +1,23 @@
+
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+
+# Logs and databases
+*.log
+*.sqlite
+*.pyc
+*.pyo
+
+*~
+
+.ipynb_checkpoints/
+*.ipynb
+
+venv/
+
+
+*.png
+*.jpg
+*.mp4
