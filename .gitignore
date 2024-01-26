@@ -4,7 +4,6 @@ __pycache__/
 *.so
 *.dylib
 
-# Logs and databases
 *.log
 *.sqlite
 *.pyc
@@ -16,7 +15,6 @@ __pycache__/
 *.ipynb
 
 venv/
-
 
 *.png
 *.jpg
